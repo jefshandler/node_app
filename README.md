@@ -12,5 +12,15 @@
 ## Inicia a aplicação e deixa rodando
  # node app.js 
 
+ ## tentativa de instalar swagger
+
+ # comandos
+ # swagger project create {nome do projeto}
+ # swagger project edit
+
+ npm install -g swagger
+ ## ou
+ npm install -g swagger-ui-express
+
 
  
